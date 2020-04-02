@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
 import 'package:flutter/foundation.dart';
+import 'package:flutter/material.dart';
 const String _name = "Your Name"; //Can use your own name by replacing "Your Name".
 void main() {
   runApp(new FriendlychatApp());
@@ -147,4 +147,4 @@ final ThemeData kIOSTheme = new ThemeData(
 final ThemeData kDefaultTheme = new ThemeData(
   primarySwatch: Colors.purple,
   accentColor: Colors.orangeAccent[400],
-);
+); //
